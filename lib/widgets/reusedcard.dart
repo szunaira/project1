@@ -27,7 +27,7 @@ class reusedcard extends StatelessWidget {
                     begin: Alignment.bottomLeft,
                     end: Alignment.topRight, ),
                  // shape: BoxShape.circle,
-                 borderRadius: BorderRadius.circular(12.0)
+                 borderRadius: BorderRadius.circular(15.0)
                 ),
                 child:Column(
                    mainAxisAlignment:MainAxisAlignment.center,
